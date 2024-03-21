@@ -1,35 +1,414 @@
 store,offer,description,price
-2272,Garlic Epic Stuffed Crust: A pizza inspired by you,"Garlic sauce fans, you inspired us! We transformed your love for our garlic sauce into our pizza. Enjoy a 1-topping Garlic Epic Stuffed Crust pizza with garlicky goodness inside the cheesy crust, drizzled onto it, and served on the side.", $13.99 
-2272,Calzone Papa Bites," Indulge in our Calzone Papa Bites. Packed with a blend of mozzarella and garlic herb ricotta, pepperoni, Italian sausage, and green peppers inside our fresh original dough. Served with original pizza sauce on the side for even more calzone flavor. ",$ 4.99 
-2272,Papa Pairings, Craving what you see? Our newest addition to your Papa Pairings possibilities: Wings! Get any of these and more delectable Papa Johns favorites for just $6.99 each when you pair two or more. ,$ 6.99 
-2272,Large 1 Topping Pizza for $9.99  Carryout Only!, Large 1 Topping Pizza for $9.99  Carryout Only! ,$ 9.99 
-2272,Large 1-Topping Pizza," Large 1 Topping Pizza for only 12.99, Delivery Only. ",$ 12.99 
-2272,Carryout Offer - Large 5-topping or specialty, Large Specialty or up to 5 topping pizza ,$ 14.99 
-2272,Epic Stuffed Crust 1-Topping Pizza, Epic Stuff Crust 1-Topping Pizza for ONLY $15.99 ,$ 15.99 
-2272,"Any 10"" Only $10"," Any 10"" original crust specialty or up to 5-topping pizza ONLY $10 ",$ 10 
-2272,Any Large Pizza - Up to 5 Toppings or Specialty, Enjoy your favorite specialty or any 5-topping pizza on our large original or thin crust pizza for only $18.99! ,$ 18.99 
-2272,Small Deal, Small Three Topping Pizza ,$ 9.99 
-2272,Any Medium Specialty Or 5-Topping, Any Medium Specialty or 5-Topping Pizza ,$ 13.99 
-2272, Extra Large 2-topping Pizza, Extra Large Two Topping Pizza ,$ 17.99 
-2272,2 Large 2-Topping Pizzas, Two Large 2 Topping Pizzas ,$ 25.98 
-2272,NY-Style 1-Topping Pizza, New York Style 1-Topping Pizza ,$ 15.99 
-2272,Family Special, Any large specialty or 5-topping pizza and a large 2-topping pizza ,$ 29.99 
-2272,Any Large EPIC STUFFED CRUST, Any large EPIC STUFFED Crust with up to 5 toppings or Specialty pizza ,$ 20.99 
-2272,Cheesy Calzone Epic Stuffed Crust Pizza," We know how to hand stuff our crust with the best flavor combos. Experience calzone flavors like never before, this pizza is made with a blend of mozzarella and garlic herb ricotta stuffed into the crust. Comes with your choice of 1 topping. ",$ 14.99 
-1743,Garlic Epic Stuffed Crust: A pizza inspired by you,"Garlic sauce fans, you inspired us! We transformed your love for our garlic sauce into our pizza. Enjoy a 1-topping Garlic Epic Stuffed Crust pizza with garlicky goodness inside the cheesy crust, drizzled onto it, and served on the side.", $13.99 
-1743,Calzone Papa Bites," Indulge in our Calzone Papa Bites. Packed with a blend of mozzarella and garlic herb ricotta, pepperoni, Italian sausage, and green peppers inside our fresh original dough. Served with original pizza sauce on the side for even more calzone flavor. ",$ 4.99 
-1743,Papa Pairings, Craving what you see? Our newest addition to your Papa Pairings possibilities: Wings! Get any of these and more delectable Papa Johns favorites for just $6.99 each when you pair two or more. ,$ 6.99 
-1743,Large 1 Topping Pizza for $9.99  Carryout Only!, Large 1 Topping Pizza for $9.99  Carryout Only! ,$ 9.99 
-1743,Large 1-Topping Pizza," Large 1 Topping Pizza for only 12.99, Delivery Only. ",$ 12.99 
-1743,Carryout Offer - Large 5-topping or specialty, Large Specialty or up to 5 topping pizza ,$ 14.99 
-1743,Epic Stuffed Crust 1-Topping Pizza, Epic Stuff Crust 1-Topping Pizza for ONLY $15.99 ,$ 15.99 
-1743,"Any 10"" Only $10"," Any 10"" original crust specialty or up to 5-topping pizza ONLY $10 ",$ 10 
-1743,Any Large Pizza - Up to 5 Toppings or Specialty, Enjoy your favorite specialty or any 5-topping pizza on our large original or thin crust pizza for only $18.99! ,$ 18.99 
-1743,Small Deal, Small Three Topping Pizza ,$ 9.99 
-1743,Any Medium Specialty Or 5-Topping, Any Medium Specialty or 5-Topping Pizza ,$ 13.99 
-1743, Extra Large 2-topping Pizza, Extra Large Two Topping Pizza ,$ 17.99 
-1743,2 Large 2-Topping Pizzas, Two Large 2 Topping Pizzas ,$ 25.98 
-1743,NY-Style 1-Topping Pizza, New York Style 1-Topping Pizza ,$ 15.99 
-1743,Family Special, Any large specialty or 5-topping pizza and a large 2-topping pizza ,$ 29.99 
-1743,Any Large EPIC STUFFED CRUST, Any large EPIC STUFFED Crust with up to 5 toppings or Specialty pizza ,$ 20.99 
-1743,Cheesy Calzone Epic Stuffed Crust Pizza," We know how to hand stuff our crust with the best flavor combos. Experience calzone flavors like never before, this pizza is made with a blend of mozzarella and garlic herb ricotta stuffed into the crust. Comes with your choice of 1 topping. ",$ 14.99 
+1740,Garlic Epic Stuffed Crust: A pizza inspired by you,"Garlic sauce fans, you inspired us! We transformed your love for our garlic sauce into our pizza. Enjoy a 1-topping Garlic Epic Stuffed Crust pizza with garlicky goodness inside the cheesy crust, drizzled onto it, and served on the side.",$13.99 
+1740,Calzone Papa Bites," Indulge in our Calzone Papa Bites. Packed with a blend of mozzarella and garlic herb ricotta, pepperoni, Italian sausage, and green peppers inside our fresh original dough. Served with original pizza sauce on the side for even more calzone flavor. ",$4.99 
+1740,Papa Pairings, Craving what you see? Our newest addition to your Papa Pairings possibilities: Wings! Get any of these and more delectable Papa Johns favorites for just $6.99 each when you pair two or more. ,$6.99 
+1740,Large 1 Topping Pizza for $9.99  Carryout Only!, Large 1 Topping Pizza for $9.99  Carryout Only! ,$9.99 
+1740,Large 1-Topping Pizza," Large 1 Topping Pizza for only 12.99, Delivery Only. ",$12.99 
+1740,Carryout Offer - Large 5-topping or specialty, Large Specialty or up to 5 topping pizza ,$14.99 
+1740,Epic Stuffed Crust 1-Topping Pizza, Epic Stuff Crust 1-Topping Pizza for ONLY $15.99 ,$15.99 
+1740,"Any 10"" Only $10"," Any 10"" original crust specialty or up to 5-topping pizza ONLY $10 ",$10 
+1740,Any Large Pizza - Up to 5 Toppings or Specialty, Enjoy your favorite specialty or any 5-topping pizza on our large original or thin crust pizza for only $18.99! ,$18.99 
+1740,Small Deal, Small Three Topping Pizza ,$9.99 
+1740,Any Medium Specialty Or 5-Topping, Any Medium Specialty or 5-Topping Pizza ,$13.99 
+1740, Extra Large 2-topping Pizza, Extra Large Two Topping Pizza ,$17.99 
+1740,2 Large 2-Topping Pizzas, Two Large 2 Topping Pizzas ,$25.98 
+1740,NY-Style 1-Topping Pizza, New York Style 1-Topping Pizza ,$15.99 
+1740,Family Special, Any large specialty or 5-topping pizza and a large 2-topping pizza ,$29.99 
+1740,Any Large EPIC STUFFED CRUST, Any large EPIC STUFFED Crust with up to 5 toppings or Specialty pizza ,$20.99 
+1740,Cheesy Calzone Epic Stuffed Crust Pizza," We know how to hand stuff our crust with the best flavor combos. Experience calzone flavors like never before, this pizza is made with a blend of mozzarella and garlic herb ricotta stuffed into the crust. Comes with your choice of 1 topping. ",$14.99 
+1743,Garlic Epic Stuffed Crust: A pizza inspired by you,"Garlic sauce fans, you inspired us! We transformed your love for our garlic sauce into our pizza. Enjoy a 1-topping Garlic Epic Stuffed Crust pizza with garlicky goodness inside the cheesy crust, drizzled onto it, and served on the side.",$13.99 
+1743,Calzone Papa Bites," Indulge in our Calzone Papa Bites. Packed with a blend of mozzarella and garlic herb ricotta, pepperoni, Italian sausage, and green peppers inside our fresh original dough. Served with original pizza sauce on the side for even more calzone flavor. ",$4.99 
+1743,Papa Pairings, Craving what you see? Our newest addition to your Papa Pairings possibilities: Wings! Get any of these and more delectable Papa Johns favorites for just $6.99 each when you pair two or more. ,$6.99 
+1743,Large 1 Topping Pizza for $9.99  Carryout Only!, Large 1 Topping Pizza for $9.99  Carryout Only! ,$9.99 
+1743,Large 1-Topping Pizza," Large 1 Topping Pizza for only 12.99, Delivery Only. ",$12.99 
+1743,Carryout Offer - Large 5-topping or specialty, Large Specialty or up to 5 topping pizza ,$14.99 
+1743,Epic Stuffed Crust 1-Topping Pizza, Epic Stuff Crust 1-Topping Pizza for ONLY $15.99 ,$15.99 
+1743,"Any 10"" Only $10"," Any 10"" original crust specialty or up to 5-topping pizza ONLY $10 ",$10 
+1743,Any Large Pizza - Up to 5 Toppings or Specialty, Enjoy your favorite specialty or any 5-topping pizza on our large original or thin crust pizza for only $18.99! ,$18.99 
+1743,Small Deal, Small Three Topping Pizza ,$9.99 
+1743,Any Medium Specialty Or 5-Topping, Any Medium Specialty or 5-Topping Pizza ,$13.99 
+1743, Extra Large 2-topping Pizza, Extra Large Two Topping Pizza ,$17.99 
+1743,2 Large 2-Topping Pizzas, Two Large 2 Topping Pizzas ,$25.98 
+1743,NY-Style 1-Topping Pizza, New York Style 1-Topping Pizza ,$15.99 
+1743,Family Special, Any large specialty or 5-topping pizza and a large 2-topping pizza ,$29.99 
+1743,Any Large EPIC STUFFED CRUST, Any large EPIC STUFFED Crust with up to 5 toppings or Specialty pizza ,$20.99 
+1743,Cheesy Calzone Epic Stuffed Crust Pizza," We know how to hand stuff our crust with the best flavor combos. Experience calzone flavors like never before, this pizza is made with a blend of mozzarella and garlic herb ricotta stuffed into the crust. Comes with your choice of 1 topping. ",$14.99 
+2172,Garlic Epic Stuffed Crust: A pizza inspired by you,"Garlic sauce fans, you inspired us! We transformed your love for our garlic sauce into our pizza. Enjoy a 1-topping Garlic Epic Stuffed Crust pizza with garlicky goodness inside the cheesy crust, drizzled onto it, and served on the side.",$13.99 
+2172,Calzone Papa Bites," Indulge in our Calzone Papa Bites. Packed with a blend of mozzarella and garlic herb ricotta, pepperoni, Italian sausage, and green peppers inside our fresh original dough. Served with original pizza sauce on the side for even more calzone flavor. ",$4.99 
+2172,Papa Pairings, Craving what you see? Our newest addition to your Papa Pairings possibilities: Wings! Get any of these and more delectable Papa Johns favorites for just $6.99 each when you pair two or more. ,$6.99 
+2172,Large 1 Topping Pizza for $9.99  Carryout Only!, Large 1 Topping Pizza for $9.99  Carryout Only! ,$9.99 
+2172,Large 1-Topping Pizza," Large 1 Topping Pizza for only 12.99, Delivery Only. ",$12.99 
+2172,Carryout Offer - Large 5-topping or specialty, Large Specialty or up to 5 topping pizza ,$14.99 
+2172,Epic Stuffed Crust 1-Topping Pizza, Epic Stuff Crust 1-Topping Pizza for ONLY $15.99 ,$15.99 
+2172,"Any 10"" Only $10"," Any 10"" original crust specialty or up to 5-topping pizza ONLY $10 ",$10 
+2172,Any Large Pizza - Up to 5 Toppings or Specialty, Enjoy your favorite specialty or any 5-topping pizza on our large original or thin crust pizza for only $18.99! ,$18.99 
+2172,Small Deal, Small Three Topping Pizza ,$9.99 
+2172,Any Medium Specialty Or 5-Topping, Any Medium Specialty or 5-Topping Pizza ,$13.99 
+2172, Extra Large 2-topping Pizza, Extra Large Two Topping Pizza ,$17.99 
+2172,2 Large 2-Topping Pizzas, Two Large 2 Topping Pizzas ,$25.98 
+2172,NY-Style 1-Topping Pizza, New York Style 1-Topping Pizza ,$15.99 
+2172,Family Special, Any large specialty or 5-topping pizza and a large 2-topping pizza ,$29.99 
+2172,Any Large EPIC STUFFED CRUST, Any large EPIC STUFFED Crust with up to 5 toppings or Specialty pizza ,$20.99 
+2172,Cheesy Calzone Epic Stuffed Crust Pizza," We know how to hand stuff our crust with the best flavor combos. Experience calzone flavors like never before, this pizza is made with a blend of mozzarella and garlic herb ricotta stuffed into the crust. Comes with your choice of 1 topping. ",$14.99 
+2174,Garlic Epic Stuffed Crust: A pizza inspired by you,"Garlic sauce fans, you inspired us! We transformed your love for our garlic sauce into our pizza. Enjoy a 1-topping Garlic Epic Stuffed Crust pizza with garlicky goodness inside the cheesy crust, drizzled onto it, and served on the side.",$13.99 
+2174,Calzone Papa Bites," Indulge in our Calzone Papa Bites. Packed with a blend of mozzarella and garlic herb ricotta, pepperoni, Italian sausage, and green peppers inside our fresh original dough. Served with original pizza sauce on the side for even more calzone flavor. ",$4.99 
+2174,Papa Pairings, Craving what you see? Our newest addition to your Papa Pairings possibilities: Wings! Get any of these and more delectable Papa Johns favorites for just $6.99 each when you pair two or more. ,$6.99 
+2174,Large 1 Topping Pizza for $9.99  Carryout Only!, Large 1 Topping Pizza for $9.99  Carryout Only! ,$9.99 
+2174,Large 1-Topping Pizza," Large 1 Topping Pizza for only 12.99, Delivery Only. ",$12.99 
+2174,Carryout Offer - Large 5-topping or specialty, Large Specialty or up to 5 topping pizza ,$14.99 
+2174,Epic Stuffed Crust 1-Topping Pizza, Epic Stuff Crust 1-Topping Pizza for ONLY $15.99 ,$15.99 
+2174,"Any 10"" Only $10"," Any 10"" original crust specialty or up to 5-topping pizza ONLY $10 ",$10 
+2174,Any Large Pizza - Up to 5 Toppings or Specialty, Enjoy your favorite specialty or any 5-topping pizza on our large original or thin crust pizza for only $18.99! ,$18.99 
+2174,Small Deal, Small Three Topping Pizza ,$9.99 
+2174,Any Medium Specialty Or 5-Topping, Any Medium Specialty or 5-Topping Pizza ,$13.99 
+2174, Extra Large 2-topping Pizza, Extra Large Two Topping Pizza ,$17.99 
+2174,2 Large 2-Topping Pizzas, Two Large 2 Topping Pizzas ,$25.98 
+2174,NY-Style 1-Topping Pizza, New York Style 1-Topping Pizza ,$15.99 
+2174,Family Special, Any large specialty or 5-topping pizza and a large 2-topping pizza ,$29.99 
+2174,Any Large EPIC STUFFED CRUST, Any large EPIC STUFFED Crust with up to 5 toppings or Specialty pizza ,$20.99 
+2174,Cheesy Calzone Epic Stuffed Crust Pizza," We know how to hand stuff our crust with the best flavor combos. Experience calzone flavors like never before, this pizza is made with a blend of mozzarella and garlic herb ricotta stuffed into the crust. Comes with your choice of 1 topping. ",$14.99 
+2236,Garlic Epic Stuffed Crust: A pizza inspired by you,"Garlic sauce fans, you inspired us! We transformed your love for our garlic sauce into our pizza. Enjoy a 1-topping Garlic Epic Stuffed Crust pizza with garlicky goodness inside the cheesy crust, drizzled onto it, and served on the side.",$13.99 
+2236,Calzone Papa Bites," Indulge in our Calzone Papa Bites. Packed with a blend of mozzarella and garlic herb ricotta, pepperoni, Italian sausage, and green peppers inside our fresh original dough. Served with original pizza sauce on the side for even more calzone flavor. ",$4.99 
+2236,Papa Pairings, Craving what you see? Our newest addition to your Papa Pairings possibilities: Wings! Get any of these and more delectable Papa Johns favorites for just $6.99 each when you pair two or more. ,$6.99 
+2236,Large 1 Topping Pizza for $9.99  Carryout Only!, Large 1 Topping Pizza for $9.99  Carryout Only! ,$9.99 
+2236,Large 1-Topping Pizza," Large 1 Topping Pizza for only 12.99, Delivery Only. ",$12.99 
+2236,Carryout Offer  Large Specialty or 5-Topping Pizza, Large Specialty or up to 5 topping pizza ,$14.99 
+2236,Epic Stuffed Crust 1-Topping Pizza, Epic Stuff Crust 1-Topping Pizza for ONLY $15.99 ,$15.99 
+2236,"Any 10"" Only $10"," Any 10"" original crust specialty or up to 5-topping pizza ONLY $10 ",$10 
+2236,Any Large Pizza - Up to 5 Toppings or Specialty, Large Specialty or up to 5 toppings $18.99 ,$18.99 
+2236,Small Deal, Small Three Topping Pizza ,$9.99 
+2236,Any Medium Specialty Or 5-Topping, Any Medium Specialty or 5-Topping Pizza ,$13.99 
+2236, Extra Large 2-topping Pizza, Extra Large Two Topping Pizza ,$17.99 
+2236,NY-Style 1-Topping Pizza, New York Style 1-Topping Pizza ,$15.99 
+2236,Family Special, Any large specialty or 5-topping pizza and a large 2-topping pizza ,$29.99 
+2236,Stuffed Crust Specialty or up to 5 Topping, Large Stuffed Crust Specialty or up to 5 Topping Pizza only $20.99 ,$20.99 
+2236,Cheesy Calzone Epic Stuffed Crust Pizza," We know how to hand stuff our crust with the best flavor combos. Experience calzone flavors like never before, this pizza is made with a blend of mozzarella and garlic herb ricotta stuffed into the crust. Comes with your choice of 1 topping. ",$14.99 
+2236,Papa's Double Take, Two Large 2 Topping Pizzas only $12.99 each ,$25.98 
+2272,Garlic Epic Stuffed Crust: A pizza inspired by you,"Garlic sauce fans, you inspired us! We transformed your love for our garlic sauce into our pizza. Enjoy a 1-topping Garlic Epic Stuffed Crust pizza with garlicky goodness inside the cheesy crust, drizzled onto it, and served on the side.",$13.99 
+2272,Calzone Papa Bites," Indulge in our Calzone Papa Bites. Packed with a blend of mozzarella and garlic herb ricotta, pepperoni, Italian sausage, and green peppers inside our fresh original dough. Served with original pizza sauce on the side for even more calzone flavor. ",$4.99 
+2272,Papa Pairings, Craving what you see? Our newest addition to your Papa Pairings possibilities: Wings! Get any of these and more delectable Papa Johns favorites for just $6.99 each when you pair two or more. ,$6.99 
+2272,Large 1 Topping Pizza for $9.99  Carryout Only!, Large 1 Topping Pizza for $9.99  Carryout Only! ,$9.99 
+2272,Large 1-Topping Pizza," Large 1 Topping Pizza for only 12.99, Delivery Only. ",$12.99 
+2272,Carryout Offer - Large 5-topping or specialty, Large Specialty or up to 5 topping pizza ,$14.99 
+2272,Epic Stuffed Crust 1-Topping Pizza, Epic Stuff Crust 1-Topping Pizza for ONLY $15.99 ,$15.99 
+2272,"Any 10"" Only $10"," Any 10"" original crust specialty or up to 5-topping pizza ONLY $10 ",$10 
+2272,Any Large Pizza - Up to 5 Toppings or Specialty, Enjoy your favorite specialty or any 5-topping pizza on our large original or thin crust pizza for only $18.99! ,$18.99 
+2272,Small Deal, Small Three Topping Pizza ,$9.99 
+2272,Any Medium Specialty Or 5-Topping, Any Medium Specialty or 5-Topping Pizza ,$13.99 
+2272, Extra Large 2-topping Pizza, Extra Large Two Topping Pizza ,$17.99 
+2272,2 Large 2-Topping Pizzas, Two Large 2 Topping Pizzas ,$25.98 
+2272,NY-Style 1-Topping Pizza, New York Style 1-Topping Pizza ,$15.99 
+2272,Family Special, Any large specialty or 5-topping pizza and a large 2-topping pizza ,$29.99 
+2272,Any Large EPIC STUFFED CRUST, Any large EPIC STUFFED Crust with up to 5 toppings or Specialty pizza ,$20.99 
+2272,Cheesy Calzone Epic Stuffed Crust Pizza," We know how to hand stuff our crust with the best flavor combos. Experience calzone flavors like never before, this pizza is made with a blend of mozzarella and garlic herb ricotta stuffed into the crust. Comes with your choice of 1 topping. ",$14.99 
+2457,Garlic Epic Stuffed Crust: A pizza inspired by you,"Garlic sauce fans, you inspired us! We transformed your love for our garlic sauce into our pizza. Enjoy a 1-topping Garlic Epic Stuffed Crust pizza with garlicky goodness inside the cheesy crust, drizzled onto it, and served on the side.",$13.99 
+2457,Calzone Papa Bites," Indulge in our Calzone Papa Bites. Packed with a blend of mozzarella and garlic herb ricotta, pepperoni, Italian sausage, and green peppers inside our fresh original dough. Served with original pizza sauce on the side for even more calzone flavor. ",$4.99 
+2457,Papa Pairings, Craving what you see? Our newest addition to your Papa Pairings possibilities: Wings! Get any of these and more delectable Papa Johns favorites for just $6.99 each when you pair two or more. ,$6.99 
+2457,Large 1 Topping Pizza for $9.99  Carryout Only!, Large 1 Topping Pizza for $9.99  Carryout Only! ,$9.99 
+2457,Large 1-Topping Pizza," Large 1 Topping Pizza for only 12.99, Delivery Only. ",$12.99 
+2457,Carryout Offer - Large 5-topping or specialty, Large Specialty or up to 5 topping pizza ,$14.99 
+2457,Epic Stuffed Crust 1-Topping Pizza, Epic Stuff Crust 1-Topping Pizza for ONLY $15.99 ,$15.99 
+2457,"Any 10"" Only $10"," Any 10"" original crust specialty or up to 5-topping pizza ONLY $10 ",$10 
+2457,Any Large Pizza - Up to 5 Toppings or Specialty, Enjoy your favorite specialty or any 5-topping pizza on our large original or thin crust pizza for only $18.99! ,$18.99 
+2457,Small Deal, Small Three Topping Pizza ,$9.99 
+2457,Any Medium Specialty Or 5-Topping, Any Medium Specialty or 5-Topping Pizza ,$13.99 
+2457, Extra Large 2-topping Pizza, Extra Large Two Topping Pizza ,$17.99 
+2457,2 Large 2-Topping Pizzas, Two Large 2 Topping Pizzas ,$25.98 
+2457,NY-Style 1-Topping Pizza, New York Style 1-Topping Pizza ,$15.99 
+2457,Family Special, Any large specialty or 5-topping pizza and a large 2-topping pizza ,$29.99 
+2457,Any Large EPIC STUFFED CRUST, Any large EPIC STUFFED Crust with up to 5 toppings or Specialty pizza ,$20.99 
+2457,Cheesy Calzone Epic Stuffed Crust Pizza," We know how to hand stuff our crust with the best flavor combos. Experience calzone flavors like never before, this pizza is made with a blend of mozzarella and garlic herb ricotta stuffed into the crust. Comes with your choice of 1 topping. ",$14.99 
+2549,Garlic Epic Stuffed Crust: A pizza inspired by you,"Garlic sauce fans, you inspired us! We transformed your love for our garlic sauce into our pizza. Enjoy a 1-topping Garlic Epic Stuffed Crust pizza with garlicky goodness inside the cheesy crust, drizzled onto it, and served on the side.",$13.99 
+2549,Calzone Papa Bites," Indulge in our Calzone Papa Bites. Packed with a blend of mozzarella and garlic herb ricotta, pepperoni, Italian sausage, and green peppers inside our fresh original dough. Served with original pizza sauce on the side for even more calzone flavor. ",$4.99 
+2549,Papa Pairings, Craving what you see? Our newest addition to your Papa Pairings possibilities: Wings! Get any of these and more delectable Papa Johns favorites for just $6.99 each when you pair two or more. ,$6.99 
+2549,Large 1 Topping Pizza for $9.99  Carryout Only!, Large 1 Topping Pizza for $9.99  Carryout Only! ,$9.99 
+2549,Large 1-Topping Pizza," Large 1 Topping Pizza for only 12.99, Delivery Only. ",$12.99 
+2549,Carryout Offer - Large 5-topping or specialty, Large Specialty or up to 5 topping pizza ,$14.99 
+2549,Epic Stuffed Crust 1-Topping Pizza, Epic Stuff Crust 1-Topping Pizza for ONLY $15.99 ,$15.99 
+2549,"Any 10"" Only $10"," Any 10"" original crust specialty or up to 5-topping pizza ONLY $10 ",$10 
+2549,Any Large Pizza - Up to 5 Toppings or Specialty, Enjoy your favorite specialty or any 5-topping pizza on our large original or thin crust pizza for only $18.99! ,$18.99 
+2549,Small Deal, Small Three Topping Pizza ,$9.99 
+2549,Any Medium Specialty Or 5-Topping, Any Medium Specialty or 5-Topping Pizza ,$13.99 
+2549, Extra Large 2-topping Pizza, Extra Large Two Topping Pizza ,$17.99 
+2549,2 Large 2-Topping Pizzas, Two Large 2 Topping Pizzas ,$25.98 
+2549,NY-Style 1-Topping Pizza, New York Style 1-Topping Pizza ,$15.99 
+2549,Family Special, Any large specialty or 5-topping pizza and a large 2-topping pizza ,$29.99 
+2549,Any Large EPIC STUFFED CRUST, Any large EPIC STUFFED Crust with up to 5 toppings or Specialty pizza ,$20.99 
+2549,Cheesy Calzone Epic Stuffed Crust Pizza," We know how to hand stuff our crust with the best flavor combos. Experience calzone flavors like never before, this pizza is made with a blend of mozzarella and garlic herb ricotta stuffed into the crust. Comes with your choice of 1 topping. ",$14.99 
+2603,Garlic Epic Stuffed Crust: A pizza inspired by you,"Garlic sauce fans, you inspired us! We transformed your love for our garlic sauce into our pizza. Enjoy a 1-topping Garlic Epic Stuffed Crust pizza with garlicky goodness inside the cheesy crust, drizzled onto it, and served on the side.",$13.99 
+2603,Calzone Papa Bites," Indulge in our Calzone Papa Bites. Packed with a blend of mozzarella and garlic herb ricotta, pepperoni, Italian sausage, and green peppers inside our fresh original dough. Served with original pizza sauce on the side for even more calzone flavor. ",$4.99 
+2603,Papa Pairings, Craving what you see? Our newest addition to your Papa Pairings possibilities: Wings! Get any of these and more delectable Papa Johns favorites for just $6.99 each when you pair two or more. ,$6.99 
+2603,Large 1 Topping Pizza for $9.99  Carryout Only!, Large 1 Topping Pizza for $9.99  Carryout Only! ,$9.99 
+2603,Large 1-Topping Pizza," Large 1 Topping Pizza for only 12.99, Delivery Only. ",$12.99 
+2603,Carryout Offer - Large 5-topping or specialty, Large Specialty or up to 5 topping pizza ,$14.99 
+2603,Epic Stuffed Crust 1-Topping Pizza, Epic Stuff Crust 1-Topping Pizza for ONLY $15.99 ,$15.99 
+2603,"Any 10"" Only $10"," Any 10"" original crust specialty or up to 5-topping pizza ONLY $10 ",$10 
+2603,Any Large Pizza - Up to 5 Toppings or Specialty, Enjoy your favorite specialty or any 5-topping pizza on our large original or thin crust pizza for only $18.99! ,$18.99 
+2603,Small Deal, Small Three Topping Pizza ,$9.99 
+2603,Any Medium Specialty Or 5-Topping, Any Medium Specialty or 5-Topping Pizza ,$13.99 
+2603, Extra Large 2-topping Pizza, Extra Large Two Topping Pizza ,$17.99 
+2603,2 Large 2-Topping Pizzas, Two Large 2 Topping Pizzas ,$25.98 
+2603,NY-Style 1-Topping Pizza, New York Style 1-Topping Pizza ,$15.99 
+2603,Family Special, Any large specialty or 5-topping pizza and a large 2-topping pizza ,$29.99 
+2603,Any Large EPIC STUFFED CRUST, Any large EPIC STUFFED Crust with up to 5 toppings or Specialty pizza ,$20.99 
+2603,Cheesy Calzone Epic Stuffed Crust Pizza," We know how to hand stuff our crust with the best flavor combos. Experience calzone flavors like never before, this pizza is made with a blend of mozzarella and garlic herb ricotta stuffed into the crust. Comes with your choice of 1 topping. ",$14.99 
+2953,Garlic Epic Stuffed Crust: A pizza inspired by you,"Garlic sauce fans, you inspired us! We transformed your love for our garlic sauce into our pizza. Enjoy a 1-topping Garlic Epic Stuffed Crust pizza with garlicky goodness inside the cheesy crust, drizzled onto it, and served on the side.",$13.99 
+2953,Calzone Papa Bites," Indulge in our Calzone Papa Bites. Packed with a blend of mozzarella and garlic herb ricotta, pepperoni, Italian sausage, and green peppers inside our fresh original dough. Served with original pizza sauce on the side for even more calzone flavor. ",$4.99 
+2953,Papa Pairings, Craving what you see? Our newest addition to your Papa Pairings possibilities: Wings! Get any of these and more delectable Papa Johns favorites for just $6.99 each when you pair two or more. ,$6.99 
+2953,Large 1 Topping Pizza for $9.99  Carryout Only!, Large 1 Topping Pizza for $9.99  Carryout Only! ,$9.99 
+2953,Large 1-Topping Pizza," Large 1 Topping Pizza for only 12.99, Delivery Only. ",$12.99 
+2953,Carryout Offer  Large Specialty or 5-Topping Pizza, Large Specialty or up to 5 topping pizza ,$14.99 
+2953,Epic Stuffed Crust 1-Topping Pizza, Epic Stuff Crust 1-Topping Pizza for ONLY $15.99 ,$15.99 
+2953,"Any 10"" Only $10"," Any 10"" original crust specialty or up to 5-topping pizza ONLY $10 ",$10 
+2953,Any Large Pizza - Up to 5 Toppings or Specialty, Large Specialty or up to 5 toppings $18.99 ,$18.99 
+2953,Small Deal, Small Three Topping Pizza ,$9.99 
+2953,Any Medium Specialty Or 5-Topping, Any Medium Specialty or 5-Topping Pizza ,$13.99 
+2953, Extra Large 2-topping Pizza, Extra Large Two Topping Pizza ,$17.99 
+2953,NY-Style 1-Topping Pizza, New York Style 1-Topping Pizza ,$15.99 
+2953,Family Special, Any large specialty or 5-topping pizza and a large 2-topping pizza ,$29.99 
+2953,Stuffed Crust Specialty or up to 5 Topping, Large Stuffed Crust Specialty or up to 5 Topping Pizza only $20.99 ,$20.99 
+2953,Cheesy Calzone Epic Stuffed Crust Pizza," We know how to hand stuff our crust with the best flavor combos. Experience calzone flavors like never before, this pizza is made with a blend of mozzarella and garlic herb ricotta stuffed into the crust. Comes with your choice of 1 topping. ",$14.99 
+2953,Papa's Double Take, Two Large 2 Topping Pizzas only $12.99 each ,$25.98 
+3498,Garlic Epic Stuffed Crust: A pizza inspired by you,"Garlic sauce fans, you inspired us! We transformed your love for our garlic sauce into our pizza. Enjoy a 1-topping Garlic Epic Stuffed Crust pizza with garlicky goodness inside the cheesy crust, drizzled onto it, and served on the side.",$13.99 
+3498,Calzone Papa Bites," Indulge in our Calzone Papa Bites. Packed with a blend of mozzarella and garlic herb ricotta, pepperoni, Italian sausage, and green peppers inside our fresh original dough. Served with original pizza sauce on the side for even more calzone flavor. ",$4.99 
+3498,Papa Pairings, Craving what you see? Our newest addition to your Papa Pairings possibilities: Wings! Get any of these and more delectable Papa Johns favorites for just $6.99 each when you pair two or more. ,$6.99 
+3498,Large 1 Topping Pizza for $9.99  Carryout Only!, Large 1 Topping Pizza for $9.99  Carryout Only! ,$9.99 
+3498,Large 1-Topping Pizza," Large 1 Topping Pizza for only 12.99, Delivery Only. ",$12.99 
+3498,Carryout Offer  Large Specialty or 5-Topping Pizza, Large Specialty or up to 5 topping pizza ,$14.99 
+3498,Epic Stuffed Crust 1-Topping Pizza, Epic Stuff Crust 1-Topping Pizza for ONLY $15.99 ,$15.99 
+3498,"Any 10"" Only $10"," Any 10"" original crust specialty or up to 5-topping pizza ONLY $10 ",$10 
+3498,Any Large Pizza - Up to 5 Toppings or Specialty, Large Specialty or up to 5 toppings $18.99 ,$18.99 
+3498,Small Deal, Small Three Topping Pizza ,$9.99 
+3498,Any Medium Specialty Or 5-Topping, Any Medium Specialty or 5-Topping Pizza ,$13.99 
+3498, Extra Large 2-topping Pizza, Extra Large Two Topping Pizza ,$17.99 
+3498,NY-Style 1-Topping Pizza, New York Style 1-Topping Pizza ,$15.99 
+3498,Family Special, Any large specialty or 5-topping pizza and a large 2-topping pizza ,$29.99 
+3498,Stuffed Crust Specialty or up to 5 Topping, Large Stuffed Crust Specialty or up to 5 Topping Pizza only $20.99 ,$20.99 
+3498,Cheesy Calzone Epic Stuffed Crust Pizza," We know how to hand stuff our crust with the best flavor combos. Experience calzone flavors like never before, this pizza is made with a blend of mozzarella and garlic herb ricotta stuffed into the crust. Comes with your choice of 1 topping. ",$14.99 
+3498,Papa's Double Take, Two Large 2 Topping Pizzas only $12.99 each ,$25.98 
+4778,Garlic Epic Stuffed Crust: A pizza inspired by you,"Garlic sauce fans, you inspired us! We transformed your love for our garlic sauce into our pizza. Enjoy a 1-topping Garlic Epic Stuffed Crust pizza with garlicky goodness inside the cheesy crust, drizzled onto it, and served on the side.",$13.99 
+4778,Calzone Papa Bites," Indulge in our Calzone Papa Bites. Packed with a blend of mozzarella and garlic herb ricotta, pepperoni, Italian sausage, and green peppers inside our fresh original dough. Served with original pizza sauce on the side for even more calzone flavor. ",$4.99 
+4778,Papa Pairings, Craving what you see? Our newest addition to your Papa Pairings possibilities: Wings! Get any of these and more delectable Papa Johns favorites for just $6.99 each when you pair two or more. ,$6.99 
+4778,Large 1 Topping Pizza for $9.99  Carryout Only!, Large 1 Topping Pizza for $9.99  Carryout Only! ,$9.99 
+4778,Large 1-Topping Pizza," Large 1 Topping Pizza for only 12.99, Delivery Only. ",$12.99 
+4778,Carryout Offer - Large 5-topping or specialty, Large Specialty or up to 5 topping pizza ,$14.99 
+4778,Epic Stuffed Crust 1-Topping Pizza, Epic Stuff Crust 1-Topping Pizza for ONLY $15.99 ,$15.99 
+4778,"Any 10"" Only $10"," Any 10"" original crust specialty or up to 5-topping pizza ONLY $10 ",$10 
+4778,Any Large Pizza - Up to 5 Toppings or Specialty, Enjoy your favorite specialty or any 5-topping pizza on our large original or thin crust pizza for only $18.99! ,$18.99 
+4778,Small Deal, Small Three Topping Pizza ,$9.99 
+4778,Any Medium Specialty Or 5-Topping, Any Medium Specialty or 5-Topping Pizza ,$13.99 
+4778, Extra Large 2-topping Pizza, Extra Large Two Topping Pizza ,$17.99 
+4778,2 Large 2-Topping Pizzas, Two Large 2 Topping Pizzas ,$25.98 
+4778,NY-Style 1-Topping Pizza, New York Style 1-Topping Pizza ,$15.99 
+4778,Family Special, Any large specialty or 5-topping pizza and a large 2-topping pizza ,$29.99 
+4778,Any Large EPIC STUFFED CRUST, Any large EPIC STUFFED Crust with up to 5 toppings or Specialty pizza ,$20.99 
+4778,Cheesy Calzone Epic Stuffed Crust Pizza," We know how to hand stuff our crust with the best flavor combos. Experience calzone flavors like never before, this pizza is made with a blend of mozzarella and garlic herb ricotta stuffed into the crust. Comes with your choice of 1 topping. ",$14.99 
+2208,Garlic Epic Stuffed Crust: A pizza inspired by you,"Garlic sauce fans, you inspired us! We transformed your love for our garlic sauce into our pizza. Enjoy a 1-topping Garlic Epic Stuffed Crust pizza with garlicky goodness inside the cheesy crust, drizzled onto it, and served on the side.",$13.99 
+2208,Calzone Papa Bites," Indulge in our Calzone Papa Bites. Packed with a blend of mozzarella and garlic herb ricotta, pepperoni, Italian sausage, and green peppers inside our fresh original dough. Served with original pizza sauce on the side for even more calzone flavor. ",$4.99 
+2208,Papa Pairings, Craving what you see? Our newest addition to your Papa Pairings possibilities: Wings! Get any of these and more delectable Papa Johns favorites for just $6.99 each when you pair two or more. ,$6.99 
+2208,Large 1 Topping Pizza for $9.99  Carryout Only!, Large 1 Topping Pizza for $9.99  Carryout Only! ,$9.99 
+2208,Large 1-Topping Pizza," Large 1 Topping Pizza for only 12.99, Delivery Only. ",$12.99 
+2208,Epic Stuffed Crust 1-Topping Pizza, Epic Stuff Crust 1-Topping Pizza for ONLY $15.99 ,$15.99 
+2208,"Any 10"" Only $10"," Any 10"" original crust specialty or up to 5-topping pizza ONLY $10 ",$10 
+2208,Carryout ONLY! Large Specialty Pizza, Large Specialty Pizza $15.99. Carryout ONLY ,$15.99 
+2208,Any Large Pizza - Up to 5 Toppings or Specialty, Enjoy your favorite specialty or any 5-topping pizza on our large original or thin crust pizza ,$18.99 
+2208,Two Pizza Deal, Two Large Two Topping Pizzas ,$25.99 
+2208,NY-Style 1-Topping Pizza, New York Style 1-Topping Pizza ,$15.99 
+2208,Family Special, Any large specialty or 5-topping pizza and a large 2-topping pizza ,$29.99 
+2208,Cheesy Calzone Epic Stuffed Crust Pizza," We know how to hand stuff our crust with the best flavor combos. Experience calzone flavors like never before, this pizza is made with a blend of mozzarella and garlic herb ricotta stuffed into the crust. Comes with your choice of 1 topping. ",$14.99 
+2208,25% Off Regular Menu Price, 25% Off Your Entire Menu Price Order! ,
+2208,30% OFF - TOYS FOR KIDS, Enjoy 30% off regular menu price items when you apply this promo! Papa Johns will donate 10% of the discounted purchase price to Toys for Kids. ,
+2325,Garlic Epic Stuffed Crust: A pizza inspired by you,"Garlic sauce fans, you inspired us! We transformed your love for our garlic sauce into our pizza. Enjoy a 1-topping Garlic Epic Stuffed Crust pizza with garlicky goodness inside the cheesy crust, drizzled onto it, and served on the side.",$13.99 
+2325,Calzone Papa Bites," Indulge in our Calzone Papa Bites. Packed with a blend of mozzarella and garlic herb ricotta, pepperoni, Italian sausage, and green peppers inside our fresh original dough. Served with original pizza sauce on the side for even more calzone flavor. ",$4.99 
+2325,Papa Pairings, Craving what you see? Our newest addition to your Papa Pairings possibilities: Wings! Get any of these and more delectable Papa Johns favorites for just $6.99 each when you pair two or more. ,$6.99 
+2325,Large 1 Topping Pizza for $9.99  Carryout Only!, Large 1 Topping Pizza for $9.99  Carryout Only! ,$9.99 
+2325,Large 1-Topping Pizza," Large 1 Topping Pizza for only 12.99, Delivery Only. ",$12.99 
+2325,Epic Stuffed Crust 1-Topping Pizza, Epic Stuff Crust 1-Topping Pizza for ONLY $15.99 ,$15.99 
+2325,"Any 10"" Only $10"," Any 10"" original crust specialty or up to 5-topping pizza ONLY $10 ",$10 
+2325,Carryout ONLY! Large Specialty Pizza, Large Specialty Pizza $15.99. Carryout ONLY ,$15.99 
+2325,Any Large Pizza - Up to 5 Toppings or Specialty, Enjoy your favorite specialty or any 5-topping pizza on our large original or thin crust pizza ,$18.99 
+2325,Two Pizza Deal, Two Large Two Topping Pizzas ,$25.99 
+2325,NY-Style 1-Topping Pizza, New York Style 1-Topping Pizza ,$15.99 
+2325,Family Special, Any large specialty or 5-topping pizza and a large 2-topping pizza ,$29.99 
+2325,Cheesy Calzone Epic Stuffed Crust Pizza," We know how to hand stuff our crust with the best flavor combos. Experience calzone flavors like never before, this pizza is made with a blend of mozzarella and garlic herb ricotta stuffed into the crust. Comes with your choice of 1 topping. ",$14.99 
+2325,25% Off Regular Menu Price, 25% Off Your Entire Menu Price Order! ,
+2325,30% OFF - TOYS FOR KIDS, Enjoy 30% off regular menu price items when you apply this promo! Papa Johns will donate 10% of the discounted purchase price to Toys for Kids. ,
+2478,Garlic Epic Stuffed Crust: A pizza inspired by you,"Garlic sauce fans, you inspired us! We transformed your love for our garlic sauce into our pizza. Enjoy a 1-topping Garlic Epic Stuffed Crust pizza with garlicky goodness inside the cheesy crust, drizzled onto it, and served on the side.",$13.99 
+2478,Calzone Papa Bites," Indulge in our Calzone Papa Bites. Packed with a blend of mozzarella and garlic herb ricotta, pepperoni, Italian sausage, and green peppers inside our fresh original dough. Served with original pizza sauce on the side for even more calzone flavor. ",$4.99 
+2478,Papa Pairings, Craving what you see? Our newest addition to your Papa Pairings possibilities: Wings! Get any of these and more delectable Papa Johns favorites for just $6.99 each when you pair two or more. ,$6.99 
+2478,Large 1 Topping Pizza for $9.99  Carryout Only!, Large 1 Topping Pizza for $9.99  Carryout Only! ,$9.99 
+2478,Large 1-Topping Pizza," Large 1 Topping Pizza for only 12.99, Delivery Only. ",$12.99 
+2478,Epic Stuffed Crust 1-Topping Pizza, Epic Stuff Crust 1-Topping Pizza for ONLY $15.99 ,$15.99 
+2478,"Any 10"" Only $10"," Any 10"" original crust specialty or up to 5-topping pizza ONLY $10 ",$10 
+2478,Carryout ONLY! Large Specialty Pizza, Large Specialty Pizza $15.99. Carryout ONLY ,$15.99 
+2478,Any Large Pizza - Up to 5 Toppings or Specialty, Enjoy your favorite specialty or any 5-topping pizza on our large original or thin crust pizza ,$18.99 
+2478,Two Pizza Deal, Two Large Two Topping Pizzas ,$25.99 
+2478,NY-Style 1-Topping Pizza, New York Style 1-Topping Pizza ,$15.99 
+2478,Family Special, Any large specialty or 5-topping pizza and a large 2-topping pizza ,$29.99 
+2478,Cheesy Calzone Epic Stuffed Crust Pizza," We know how to hand stuff our crust with the best flavor combos. Experience calzone flavors like never before, this pizza is made with a blend of mozzarella and garlic herb ricotta stuffed into the crust. Comes with your choice of 1 topping. ",$14.99 
+2478,25% Off Regular Menu Price, 25% Off Your Entire Menu Price Order! ,
+2478,30% OFF - TOYS FOR KIDS, Enjoy 30% off regular menu price items when you apply this promo! Papa Johns will donate 10% of the discounted purchase price to Toys for Kids. ,
+2612,Garlic Epic Stuffed Crust: A pizza inspired by you,"Garlic sauce fans, you inspired us! We transformed your love for our garlic sauce into our pizza. Enjoy a 1-topping Garlic Epic Stuffed Crust pizza with garlicky goodness inside the cheesy crust, drizzled onto it, and served on the side.",$13.99 
+2612,Calzone Papa Bites," Indulge in our Calzone Papa Bites. Packed with a blend of mozzarella and garlic herb ricotta, pepperoni, Italian sausage, and green peppers inside our fresh original dough. Served with original pizza sauce on the side for even more calzone flavor. ",$4.99 
+2612,Papa Pairings, Craving what you see? Our newest addition to your Papa Pairings possibilities: Wings! Get any of these and more delectable Papa Johns favorites for just $6.99 each when you pair two or more. ,$6.99 
+2612,Large 1 Topping Pizza for $9.99  Carryout Only!, Large 1 Topping Pizza for $9.99  Carryout Only! ,$9.99 
+2612,Large 1-Topping Pizza," Large 1 Topping Pizza for only 12.99, Delivery Only. ",$12.99 
+2612,Epic Stuffed Crust 1-Topping Pizza, Epic Stuff Crust 1-Topping Pizza for ONLY $15.99 ,$15.99 
+2612,"Any 10"" Only $10"," Any 10"" original crust specialty or up to 5-topping pizza ONLY $10 ",$10 
+2612,Carryout ONLY! Large Specialty Pizza, Large Specialty Pizza $15.99. Carryout ONLY ,$15.99 
+2612,Any Large Pizza - Up to 5 Toppings or Specialty, Enjoy your favorite specialty or any 5-topping pizza on our large original or thin crust pizza ,$18.99 
+2612,Two Pizza Deal, Two Large Two Topping Pizzas ,$25.99 
+2612,NY-Style 1-Topping Pizza, New York Style 1-Topping Pizza ,$15.99 
+2612,Family Special, Any large specialty or 5-topping pizza and a large 2-topping pizza ,$29.99 
+2612,Cheesy Calzone Epic Stuffed Crust Pizza," We know how to hand stuff our crust with the best flavor combos. Experience calzone flavors like never before, this pizza is made with a blend of mozzarella and garlic herb ricotta stuffed into the crust. Comes with your choice of 1 topping. ",$14.99 
+2612,25% Off Regular Menu Price, 25% Off Your Entire Menu Price Order! ,
+2612,30% OFF - TOYS FOR KIDS, Enjoy 30% off regular menu price items when you apply this promo! Papa Johns will donate 10% of the discounted purchase price to Toys for Kids. ,
+2687,Garlic Epic Stuffed Crust: A pizza inspired by you,"Garlic sauce fans, you inspired us! We transformed your love for our garlic sauce into our pizza. Enjoy a 1-topping Garlic Epic Stuffed Crust pizza with garlicky goodness inside the cheesy crust, drizzled onto it, and served on the side.",$13.99 
+2687,Calzone Papa Bites," Indulge in our Calzone Papa Bites. Packed with a blend of mozzarella and garlic herb ricotta, pepperoni, Italian sausage, and green peppers inside our fresh original dough. Served with original pizza sauce on the side for even more calzone flavor. ",$4.99 
+2687,Papa Pairings, Craving what you see? Our newest addition to your Papa Pairings possibilities: Wings! Get any of these and more delectable Papa Johns favorites for just $6.99 each when you pair two or more. ,$6.99 
+2687,Large 1 Topping Pizza for $9.99  Carryout Only!, Large 1 Topping Pizza for $9.99  Carryout Only! ,$9.99 
+2687,Large 1-Topping Pizza," Large 1 Topping Pizza for only 12.99, Delivery Only. ",$12.99 
+2687,Epic Stuffed Crust 1-Topping Pizza, Epic Stuff Crust 1-Topping Pizza for ONLY $15.99 ,$15.99 
+2687,"Any 10"" Only $10"," Any 10"" original crust specialty or up to 5-topping pizza ONLY $10 ",$10 
+2687,Carryout ONLY! Large Specialty Pizza, Large Specialty Pizza $15.99. Carryout ONLY ,$15.99 
+2687,Any Large Pizza - Up to 5 Toppings or Specialty, Enjoy your favorite specialty or any 5-topping pizza on our large original or thin crust pizza ,$18.99 
+2687,Two Pizza Deal, Two Large Two Topping Pizzas ,$25.99 
+2687,NY-Style 1-Topping Pizza, New York Style 1-Topping Pizza ,$15.99 
+2687,Family Special, Any large specialty or 5-topping pizza and a large 2-topping pizza ,$29.99 
+2687,Cheesy Calzone Epic Stuffed Crust Pizza," We know how to hand stuff our crust with the best flavor combos. Experience calzone flavors like never before, this pizza is made with a blend of mozzarella and garlic herb ricotta stuffed into the crust. Comes with your choice of 1 topping. ",$14.99 
+2687,25% Off Regular Menu Price, 25% Off Your Entire Menu Price Order! ,
+2687,30% OFF - TOYS FOR KIDS, Enjoy 30% off regular menu price items when you apply this promo! Papa Johns will donate 10% of the discounted purchase price to Toys for Kids. ,
+2921,Garlic Epic Stuffed Crust: A pizza inspired by you,"Garlic sauce fans, you inspired us! We transformed your love for our garlic sauce into our pizza. Enjoy a 1-topping Garlic Epic Stuffed Crust pizza with garlicky goodness inside the cheesy crust, drizzled onto it, and served on the side.",$13.99 
+2921,Calzone Papa Bites," Indulge in our Calzone Papa Bites. Packed with a blend of mozzarella and garlic herb ricotta, pepperoni, Italian sausage, and green peppers inside our fresh original dough. Served with original pizza sauce on the side for even more calzone flavor. ",$4.99 
+2921,Papa Pairings, Craving what you see? Our newest addition to your Papa Pairings possibilities: Wings! Get any of these and more delectable Papa Johns favorites for just $6.99 each when you pair two or more. ,$6.99 
+2921,Large 1 Topping Pizza for $9.99  Carryout Only!, Large 1 Topping Pizza for $9.99  Carryout Only! ,$9.99 
+2921,Large 1-Topping Pizza," Large 1 Topping Pizza for only 12.99, Delivery Only. ",$12.99 
+2921,Epic Stuffed Crust 1-Topping Pizza, Epic Stuff Crust 1-Topping Pizza for ONLY $15.99 ,$15.99 
+2921,"Any 10"" Only $10"," Any 10"" original crust specialty or up to 5-topping pizza ONLY $10 ",$10 
+2921,Carryout ONLY! Large Specialty Pizza, Large Specialty Pizza $15.99. Carryout ONLY ,$15.99 
+2921,Any Large Pizza - Up to 5 Toppings or Specialty, Enjoy your favorite specialty or any 5-topping pizza on our large original or thin crust pizza ,$18.99 
+2921,Two Pizza Deal, Two Large Two Topping Pizzas ,$25.99 
+2921,NY-Style 1-Topping Pizza, New York Style 1-Topping Pizza ,$15.99 
+2921,Family Special, Any large specialty or 5-topping pizza and a large 2-topping pizza ,$29.99 
+2921,Cheesy Calzone Epic Stuffed Crust Pizza," We know how to hand stuff our crust with the best flavor combos. Experience calzone flavors like never before, this pizza is made with a blend of mozzarella and garlic herb ricotta stuffed into the crust. Comes with your choice of 1 topping. ",$14.99 
+2921,25% Off Regular Menu Price, 25% Off Your Entire Menu Price Order! ,
+2921,30% OFF - TOYS FOR KIDS, Enjoy 30% off regular menu price items when you apply this promo! Papa Johns will donate 10% of the discounted purchase price to Toys for Kids. ,
+3015,Garlic Epic Stuffed Crust: A pizza inspired by you,"Garlic sauce fans, you inspired us! We transformed your love for our garlic sauce into our pizza. Enjoy a 1-topping Garlic Epic Stuffed Crust pizza with garlicky goodness inside the cheesy crust, drizzled onto it, and served on the side.",$13.99 
+3015,Calzone Papa Bites," Indulge in our Calzone Papa Bites. Packed with a blend of mozzarella and garlic herb ricotta, pepperoni, Italian sausage, and green peppers inside our fresh original dough. Served with original pizza sauce on the side for even more calzone flavor. ",$4.99 
+3015,Papa Pairings, Craving what you see? Our newest addition to your Papa Pairings possibilities: Wings! Get any of these and more delectable Papa Johns favorites for just $6.99 each when you pair two or more. ,$6.99 
+3015,Large 1 Topping Pizza for $9.99  Carryout Only!, Large 1 Topping Pizza for $9.99  Carryout Only! ,$9.99 
+3015,Large 1-Topping Pizza," Large 1 Topping Pizza for only 12.99, Delivery Only. ",$12.99 
+3015,Epic Stuffed Crust 1-Topping Pizza, Epic Stuff Crust 1-Topping Pizza for ONLY $15.99 ,$15.99 
+3015,"Any 10"" Only $10"," Any 10"" original crust specialty or up to 5-topping pizza ONLY $10 ",$10 
+3015,Carryout ONLY! Large Specialty Pizza, Large Specialty Pizza $15.99. Carryout ONLY ,$15.99 
+3015,Any Large Pizza - Up to 5 Toppings or Specialty, Enjoy your favorite specialty or any 5-topping pizza on our large original or thin crust pizza ,$18.99 
+3015,Two Pizza Deal, Two Large Two Topping Pizzas ,$25.99 
+3015,NY-Style 1-Topping Pizza, New York Style 1-Topping Pizza ,$15.99 
+3015,Family Special, Any large specialty or 5-topping pizza and a large 2-topping pizza ,$29.99 
+3015,Cheesy Calzone Epic Stuffed Crust Pizza," We know how to hand stuff our crust with the best flavor combos. Experience calzone flavors like never before, this pizza is made with a blend of mozzarella and garlic herb ricotta stuffed into the crust. Comes with your choice of 1 topping. ",$14.99 
+3015,25% Off Regular Menu Price, 25% Off Your Entire Menu Price Order! ,
+3015,30% OFF - TOYS FOR KIDS, Enjoy 30% off regular menu price items when you apply this promo! Papa Johns will donate 10% of the discounted purchase price to Toys for Kids. ,
+4405,Garlic Epic Stuffed Crust: A pizza inspired by you,"Garlic sauce fans, you inspired us! We transformed your love for our garlic sauce into our pizza. Enjoy a 1-topping Garlic Epic Stuffed Crust pizza with garlicky goodness inside the cheesy crust, drizzled onto it, and served on the side.",$13.99 
+4405,Calzone Papa Bites," Indulge in our Calzone Papa Bites. Packed with a blend of mozzarella and garlic herb ricotta, pepperoni, Italian sausage, and green peppers inside our fresh original dough. Served with original pizza sauce on the side for even more calzone flavor. ",$4.99 
+4405,Papa Pairings, Craving what you see? Our newest addition to your Papa Pairings possibilities: Wings! Get any of these and more delectable Papa Johns favorites for just $6.99 each when you pair two or more. ,$6.99 
+4405,Large 1 Topping Pizza for $9.99  Carryout Only!, Large 1 Topping Pizza for $9.99  Carryout Only! ,$9.99 
+4405,Large 1-Topping Pizza," Large 1 Topping Pizza for only 12.99, Delivery Only. ",$12.99 
+4405,Epic Stuffed Crust 1-Topping Pizza, Epic Stuff Crust 1-Topping Pizza for ONLY $15.99 ,$15.99 
+4405,"Any 10"" Only $10"," Any 10"" original crust specialty or up to 5-topping pizza ONLY $10 ",$10 
+4405,Carryout ONLY! Large Specialty Pizza, Large Specialty Pizza $15.99. Carryout ONLY ,$15.99 
+4405,Any Large Pizza - Up to 5 Toppings or Specialty, Enjoy your favorite specialty or any 5-topping pizza on our large original or thin crust pizza ,$18.99 
+4405,Two Pizza Deal, Two Large Two Topping Pizzas ,$25.99 
+4405,NY-Style 1-Topping Pizza, New York Style 1-Topping Pizza ,$15.99 
+4405,Family Special, Any large specialty or 5-topping pizza and a large 2-topping pizza ,$29.99 
+4405,Cheesy Calzone Epic Stuffed Crust Pizza," We know how to hand stuff our crust with the best flavor combos. Experience calzone flavors like never before, this pizza is made with a blend of mozzarella and garlic herb ricotta stuffed into the crust. Comes with your choice of 1 topping. ",$14.99 
+4405,25% Off Regular Menu Price, 25% Off Your Entire Menu Price Order! ,
+4405,30% OFF - TOYS FOR KIDS, Enjoy 30% off regular menu price items when you apply this promo! Papa Johns will donate 10% of the discounted purchase price to Toys for Kids. ,
+5293,Garlic Epic Stuffed Crust: A pizza inspired by you,"Garlic sauce fans, you inspired us! We transformed your love for our garlic sauce into our pizza. Enjoy a 1-topping Garlic Epic Stuffed Crust pizza with garlicky goodness inside the cheesy crust, drizzled onto it, and served on the side.",$13.99 
+5293,Calzone Papa Bites," Indulge in our Calzone Papa Bites. Packed with a blend of mozzarella and garlic herb ricotta, pepperoni, Italian sausage, and green peppers inside our fresh original dough. Served with original pizza sauce on the side for even more calzone flavor. ",$4.99 
+5293,Papa Pairings, Craving what you see? Our newest addition to your Papa Pairings possibilities: Wings! Get any of these and more delectable Papa Johns favorites for just $6.99 each when you pair two or more. ,$6.99 
+5293,Large 1 Topping Pizza for $9.99  Carryout Only!, Large 1 Topping Pizza for $9.99  Carryout Only! ,$9.99 
+5293,Large 1-Topping Pizza," Large 1 Topping Pizza for only 12.99, Delivery Only. ",$12.99 
+5293,Epic Stuffed Crust 1-Topping Pizza, Epic Stuff Crust 1-Topping Pizza for ONLY $15.99 ,$15.99 
+5293,"Any 10"" Only $10"," Any 10"" original crust specialty or up to 5-topping pizza ONLY $10 ",$10 
+5293,Carryout ONLY! Large Specialty Pizza, Large Specialty Pizza $15.99. Carryout ONLY ,$15.99 
+5293,Any Large Pizza - Up to 5 Toppings or Specialty, Enjoy your favorite specialty or any 5-topping pizza on our large original or thin crust pizza ,$18.99 
+5293,Two Pizza Deal, Two Large Two Topping Pizzas ,$25.99 
+5293,NY-Style 1-Topping Pizza, New York Style 1-Topping Pizza ,$15.99 
+5293,Family Special, Any large specialty or 5-topping pizza and a large 2-topping pizza ,$29.99 
+5293,Cheesy Calzone Epic Stuffed Crust Pizza," We know how to hand stuff our crust with the best flavor combos. Experience calzone flavors like never before, this pizza is made with a blend of mozzarella and garlic herb ricotta stuffed into the crust. Comes with your choice of 1 topping. ",$14.99 
+5293,25% Off Regular Menu Price, 25% Off Your Entire Menu Price Order! ,
+5293,30% OFF - TOYS FOR KIDS, Enjoy 30% off regular menu price items when you apply this promo! Papa Johns will donate 10% of the discounted purchase price to Toys for Kids. ,
+5296,Garlic Epic Stuffed Crust: A pizza inspired by you,"Garlic sauce fans, you inspired us! We transformed your love for our garlic sauce into our pizza. Enjoy a 1-topping Garlic Epic Stuffed Crust pizza with garlicky goodness inside the cheesy crust, drizzled onto it, and served on the side.",$13.99 
+5296,Calzone Papa Bites," Indulge in our Calzone Papa Bites. Packed with a blend of mozzarella and garlic herb ricotta, pepperoni, Italian sausage, and green peppers inside our fresh original dough. Served with original pizza sauce on the side for even more calzone flavor. ",$4.99 
+5296,Papa Pairings, Craving what you see? Our newest addition to your Papa Pairings possibilities: Wings! Get any of these and more delectable Papa Johns favorites for just $6.99 each when you pair two or more. ,$6.99 
+5296,Large 1 Topping Pizza for $9.99  Carryout Only!, Large 1 Topping Pizza for $9.99  Carryout Only! ,$9.99 
+5296,Large 1-Topping Pizza," Large 1 Topping Pizza for only 12.99, Delivery Only. ",$12.99 
+5296,Epic Stuffed Crust 1-Topping Pizza, Epic Stuff Crust 1-Topping Pizza for ONLY $15.99 ,$15.99 
+5296,"Any 10"" Only $10"," Any 10"" original crust specialty or up to 5-topping pizza ONLY $10 ",$10 
+5296,Carryout ONLY! Large Specialty Pizza, Large Specialty Pizza $15.99. Carryout ONLY ,$15.99 
+5296,Any Large Pizza - Up to 5 Toppings or Specialty, Enjoy your favorite specialty or any 5-topping pizza on our large original or thin crust pizza ,$18.99 
+5296,Two Pizza Deal, Two Large Two Topping Pizzas ,$25.99 
+5296,Family Special, Any large specialty or 5-topping pizza and a large 2-topping pizza ,$29.99 
+5296,Cheesy Calzone Epic Stuffed Crust Pizza," We know how to hand stuff our crust with the best flavor combos. Experience calzone flavors like never before, this pizza is made with a blend of mozzarella and garlic herb ricotta stuffed into the crust. Comes with your choice of 1 topping. ",$14.99 
+5296,25% Off Regular Menu Price, 25% Off Your Entire Menu Price Order! ,
+5296,30% OFF - TOYS FOR KIDS, Enjoy 30% off regular menu price items when you apply this promo! Papa Johns will donate 10% of the discounted purchase price to Toys for Kids. ,
+2306,Garlic Epic Stuffed Crust: A pizza inspired by you,"Garlic sauce fans, you inspired us! We transformed your love for our garlic sauce into our pizza. Enjoy a 1-topping Garlic Epic Stuffed Crust pizza with garlicky goodness inside the cheesy crust, drizzled onto it, and served on the side.",$13.99 
+2306,Calzone Papa Bites," Indulge in our Calzone Papa Bites. Packed with a blend of mozzarella and garlic herb ricotta, pepperoni, Italian sausage, and green peppers inside our fresh original dough. Served with original pizza sauce on the side for even more calzone flavor. ",$4.99 
+2306,Papa Pairings, Craving what you see? Our newest addition to your Papa Pairings possibilities: Wings! Get any of these and more delectable Papa Johns favorites for just $6.99 each when you pair two or more. ,$6.99 
+2306,Large 1 Topping Pizza for $9.99  Carryout Only!, Large 1 Topping Pizza for $9.99  Carryout Only! ,$9.99 
+2306,Large 1-Topping Pizza," Large 1 Topping Pizza for only 12.99, Delivery Only. ",$12.99 
+2306,Epic Stuffed Crust 1-Topping Pizza, Epic Stuff Crust 1-Topping Pizza for ONLY $15.99 ,$15.99 
+2306,"Any 10"" Only $10"," Any 10"" original crust specialty or up to 5-topping pizza ONLY $10 ",$10 
+2306,Carryout ONLY! Large Specialty Pizza, Large Specialty Pizza $15.99. Carryout ONLY ,$15.99 
+2306,Any Large Pizza - Up to 5 Toppings or Specialty, Enjoy your favorite specialty or any 5-topping pizza on our large original or thin crust pizza ,$18.99 
+2306,Two Pizza Deal, Two Large Two Topping Pizzas ,$25.99 
+2306,NY-Style 1-Topping Pizza, New York Style 1-Topping Pizza ,$15.99 
+2306,Family Special, Any large specialty or 5-topping pizza and a large 2-topping pizza ,$29.99 
+2306,Cheesy Calzone Epic Stuffed Crust Pizza," We know how to hand stuff our crust with the best flavor combos. Experience calzone flavors like never before, this pizza is made with a blend of mozzarella and garlic herb ricotta stuffed into the crust. Comes with your choice of 1 topping. ",$14.99 
+2306,25% Off Regular Menu Price, 25% Off Your Entire Menu Price Order! ,
+2306,30% OFF - TOYS FOR KIDS, Enjoy 30% off regular menu price items when you apply this promo! Papa Johns will donate 10% of the discounted purchase price to Toys for Kids. ,
+2618,Garlic Epic Stuffed Crust: A pizza inspired by you,"Garlic sauce fans, you inspired us! We transformed your love for our garlic sauce into our pizza. Enjoy a 1-topping Garlic Epic Stuffed Crust pizza with garlicky goodness inside the cheesy crust, drizzled onto it, and served on the side.",$13.99 
+2618,Calzone Papa Bites," Indulge in our Calzone Papa Bites. Packed with a blend of mozzarella and garlic herb ricotta, pepperoni, Italian sausage, and green peppers inside our fresh original dough. Served with original pizza sauce on the side for even more calzone flavor. ",$4.99 
+2618,Papa Pairings, Craving what you see? Our newest addition to your Papa Pairings possibilities: Wings! Get any of these and more delectable Papa Johns favorites for just $6.99 each when you pair two or more. ,$6.99 
+2618,Large 1 Topping Pizza for $9.99  Carryout Only!, Large 1 Topping Pizza for $9.99  Carryout Only! ,$9.99 
+2618,Large 1-Topping Pizza," Large 1 Topping Pizza for only 12.99, Delivery Only. ",$12.99 
+2618,Epic Stuffed Crust 1-Topping Pizza, Epic Stuff Crust 1-Topping Pizza for ONLY $15.99 ,$15.99 
+2618,"Any 10"" Only $10"," Any 10"" original crust specialty or up to 5-topping pizza ONLY $10 ",$10 
+2618,Carryout ONLY! Large Specialty Pizza, Large Specialty Pizza $15.99. Carryout ONLY ,$15.99 
+2618,Any Large Pizza - Up to 5 Toppings or Specialty, Enjoy your favorite specialty or any 5-topping pizza on our large original or thin crust pizza ,$18.99 
+2618,Two Pizza Deal, Two Large Two Topping Pizzas ,$25.99 
+2618,NY-Style 1-Topping Pizza, New York Style 1-Topping Pizza ,$15.99 
+2618,Family Special, Any large specialty or 5-topping pizza and a large 2-topping pizza ,$29.99 
+2618,Cheesy Calzone Epic Stuffed Crust Pizza," We know how to hand stuff our crust with the best flavor combos. Experience calzone flavors like never before, this pizza is made with a blend of mozzarella and garlic herb ricotta stuffed into the crust. Comes with your choice of 1 topping. ",$14.99 
+2618,25% Off Regular Menu Price, 25% Off Your Entire Menu Price Order! ,
+2618,30% OFF - TOYS FOR KIDS, Enjoy 30% off regular menu price items when you apply this promo! Papa Johns will donate 10% of the discounted purchase price to Toys for Kids. ,
+3130,Garlic Epic Stuffed Crust: A pizza inspired by you,"Garlic sauce fans, you inspired us! We transformed your love for our garlic sauce into our pizza. Enjoy a 1-topping Garlic Epic Stuffed Crust pizza with garlicky goodness inside the cheesy crust, drizzled onto it, and served on the side.",$13.99 
+3130,Calzone Papa Bites," Indulge in our Calzone Papa Bites. Packed with a blend of mozzarella and garlic herb ricotta, pepperoni, Italian sausage, and green peppers inside our fresh original dough. Served with original pizza sauce on the side for even more calzone flavor. ",$4.99 
+3130,Papa Pairings, Craving what you see? Our newest addition to your Papa Pairings possibilities: Wings! Get any of these and more delectable Papa Johns favorites for just $6.99 each when you pair two or more. ,$6.99 
+3130,Large 1 Topping Pizza for $9.99  Carryout Only!, Large 1 Topping Pizza for $9.99  Carryout Only! ,$9.99 
+3130,Large 1-Topping Pizza," Large 1 Topping Pizza for only 12.99, Delivery Only. ",$12.99 
+3130,Epic Stuffed Crust 1-Topping Pizza, Epic Stuff Crust 1-Topping Pizza for ONLY $15.99 ,$15.99 
+3130,"Any 10"" Only $10"," Any 10"" original crust specialty or up to 5-topping pizza ONLY $10 ",$10 
+3130,Carryout ONLY! Large Specialty Pizza, Large Specialty Pizza $15.99. Carryout ONLY ,$15.99 
+3130,Any Large Pizza - Up to 5 Toppings or Specialty, Enjoy your favorite specialty or any 5-topping pizza on our large original or thin crust pizza ,$18.99 
+3130,Two Pizza Deal, Two Large Two Topping Pizzas ,$25.99 
+3130,NY-Style 1-Topping Pizza, New York Style 1-Topping Pizza ,$15.99 
+3130,Family Special, Any large specialty or 5-topping pizza and a large 2-topping pizza ,$29.99 
+3130,Cheesy Calzone Epic Stuffed Crust Pizza," We know how to hand stuff our crust with the best flavor combos. Experience calzone flavors like never before, this pizza is made with a blend of mozzarella and garlic herb ricotta stuffed into the crust. Comes with your choice of 1 topping. ",$14.99 
+3130,25% Off Regular Menu Price, 25% Off Your Entire Menu Price Order! ,
+3130,30% OFF - TOYS FOR KIDS, Enjoy 30% off regular menu price items when you apply this promo! Papa Johns will donate 10% of the discounted purchase price to Toys for Kids. ,
+3479,Garlic Epic Stuffed Crust: A pizza inspired by you,"Garlic sauce fans, you inspired us! We transformed your love for our garlic sauce into our pizza. Enjoy a 1-topping Garlic Epic Stuffed Crust pizza with garlicky goodness inside the cheesy crust, drizzled onto it, and served on the side.",$13.99 
+3479,Calzone Papa Bites," Indulge in our Calzone Papa Bites. Packed with a blend of mozzarella and garlic herb ricotta, pepperoni, Italian sausage, and green peppers inside our fresh original dough. Served with original pizza sauce on the side for even more calzone flavor. ",$4.99 
+3479,Papa Pairings, Craving what you see? Our newest addition to your Papa Pairings possibilities: Wings! Get any of these and more delectable Papa Johns favorites for just $6.99 each when you pair two or more. ,$6.99 
+3479,Large 1 Topping Pizza for $9.99  Carryout Only!, Large 1 Topping Pizza for $9.99  Carryout Only! ,$9.99 
+3479,Large 1-Topping Pizza," Large 1 Topping Pizza for only 12.99, Delivery Only. ",$12.99 
+3479,Epic Stuffed Crust 1-Topping Pizza, Epic Stuff Crust 1-Topping Pizza for ONLY $15.99 ,$15.99 
+3479,"Any 10"" Only $10"," Any 10"" original crust specialty or up to 5-topping pizza ONLY $10 ",$10 
+3479,Carryout ONLY! Large Specialty Pizza, Large Specialty Pizza $15.99. Carryout ONLY ,$15.99 
+3479,Any Large Pizza - Up to 5 Toppings or Specialty, Enjoy your favorite specialty or any 5-topping pizza on our large original or thin crust pizza ,$18.99 
+3479,Two Pizza Deal, Two Large Two Topping Pizzas ,$25.99 
+3479,NY-Style 1-Topping Pizza, New York Style 1-Topping Pizza ,$15.99 
+3479,Family Special, Any large specialty or 5-topping pizza and a large 2-topping pizza ,$29.99 
+3479,Cheesy Calzone Epic Stuffed Crust Pizza," We know how to hand stuff our crust with the best flavor combos. Experience calzone flavors like never before, this pizza is made with a blend of mozzarella and garlic herb ricotta stuffed into the crust. Comes with your choice of 1 topping. ",$14.99 
+3479,25% Off Regular Menu Price, 25% Off Your Entire Menu Price Order! ,
+3479,30% OFF - TOYS FOR KIDS, Enjoy 30% off regular menu price items when you apply this promo! Papa Johns will donate 10% of the discounted purchase price to Toys for Kids. ,
