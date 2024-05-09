@@ -20,7 +20,7 @@ options.add_experimental_option('excludeSwitches', ['enable-logging'])
 
 
 #globals/filepaths
-STORELIST = "storelist.xlsx"
+
 EXPORT = "export.xlsx"
 EXPORT_CSV = "export.csv"
 specials_page = []
@@ -35,6 +35,7 @@ def getspecials(url, StoreID):
     # Go To Store Main Menu
     #URL = "https://www.papajohns.com/order/viewStoreMenu/CARRYOUT/BUSINESS/190/"
     driver.get(url)
+    
     time.sleep(1)
 
     #Close Cookies Window
@@ -87,7 +88,7 @@ def getspecials(url, StoreID):
 storeinput = input("Enter a list of stores seperated by a single space and/or commas, or enter the file path to a CSV file with all stores listed in the first column: ")
 
 if ".csv" in storeinput:
-    with open('storelist.csv',encoding='utf-8-sig') as storelist_file:
+    with open(storeinput,encoding='utf-8-sig') as storelist_file:
         storelist = []
         csv_reader = csv.reader(storelist_file,delimiter=',')
         for row in csv_reader:
